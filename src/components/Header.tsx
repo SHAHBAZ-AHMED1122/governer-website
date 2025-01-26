@@ -2,7 +2,6 @@ import React from "react";
 import Image from "next/image";
 import Logo from "/public/governer-logo.png";
 import Link from "next/link";
-import FacebookIcon from '@mui/icons-material/Facebook';
 function Header() {
   return (
     <div>
